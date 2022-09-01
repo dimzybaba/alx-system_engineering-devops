@@ -1,3 +1,3 @@
-a script that prints the effective username of the curren
+a script that prints all the groups the current user is p
 
-t user
+art of
