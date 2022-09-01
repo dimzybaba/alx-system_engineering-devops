@@ -1,3 +1,3 @@
-a script that changes the working directory to the previous 
+a script that lists all files (even ones with names beginnin
 
-one
+g with a period character, which are normally hidden) in the current directory and the parent of the working directory
